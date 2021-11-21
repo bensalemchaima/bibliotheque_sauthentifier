@@ -1,4 +1,4 @@
-# workshop_sim4
+# workshop
 
 A new Flutter project.
 
